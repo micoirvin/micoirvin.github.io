@@ -1,0 +1,70 @@
+May 15, 2022
+I think I've approached dropdowns incorrectly because I did not fully understand the workings of absolute and relative positioning. This time, I will try to apply my learnings in positioning to do the dropdowns.
+
+Another concern is the bleeding of the image outside the box. I am thinking to use absolute positioning. Grid is also possible, but it might be an overkill?
+
+Another concern is the positioning of the background image on the landing area?
+
+I need to finish this in 2 days.
+
+I am trying to find the measurements using Figma, doing some makeshift ruler.
+    Landing:
+        width: 1110px
+        top margin : 60px
+        header height: 48px
+        bottom margin: 154px
+        radius: 100px
+
+May 16, 2022
+    It took me some time to find a good arrow for dropdown. I can't believe that arrow does not exist naturally.
+
+    Yesterday, I learned the issue of margin collapsing, and the solutions for that.
+
+May 17, 2022
+    Today, the main challenge was the background image.
+
+    The centering was also kind of time-consuming. I should be able to remember this always.
+
+    The arrows for dropdowns have always been provided. I just did not check it. Wow.
+
+    Try grid with auto value on the column.
+
+May 18, 2022
+    Today, I think I wasted time thinking too much, not decided on what to do. However, I finally cleared my mind, and decided to use grids. Let's try and see. 
+
+    I also dedicated some time doing some measurements to properly place the background image and to create some sort of fluid typography.
+
+    My main tool is the function calc().
+
+
+May 19, 2022
+    Need to fix font size. Need to fix the positioning of the intro bg.
+
+    The intro layout is already good. It is very responsive from small phone up to XL monitors.
+
+    I need to organize my formulas.
+
+May 20, 2022
+    I used clamp and @media together. It makes the code better.
+
+    TOO MUCH TIME USED.
+
+May 21, 2022
+    I've been thinking too much about big screens. Next time, I will try to fix the paddings and margins to px in phone sizes.
+
+May 23, 2022
+    Fix the h2, so that the sect2 h2 will fit.
+    Need to fix padding of section 2.
+
+May 24, 2022
+    Also need to fix padding bottom of section 1.
+
+    I learned that a more specific element style cannot be overridden by a less specific element style occuring inside a media query near the end of the page.
+
+    The things are pretty much done except dropdowns, links, hovers. I used a scaler variable today. Should've made my life a little easier if I used it earlier.
+
+May 25, 2022
+    I think I tidied up the code. I put important labels. I also finished the footer and dropdown (for desktop).
+
+May 26 & May 30, 2022
+    JavaScript functionalities - mobile nav
