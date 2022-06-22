@@ -1,0 +1,151 @@
+<!-- 
+      <div class="comments">
+        <div class="post-box">
+          <div class="post cmmnt">
+            <a href="#" class="avtr"></a>
+            <span class="usrnme-box">
+              <a href="#" class="usrnme">admin</a>
+              <a class="user-role">you</a>
+            </span>
+            <a class="post-date">2 weeks ago</a>
+
+            <p class="post-main">This is a sample comment. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eius possimus vero blanditiis.</p>
+
+            <span class="votes">
+              <button class="vote-btn" type="button">+</button>
+              <span class="score">100</span>
+              <button class="vote-btn" type="button">&minus;</button>
+            </span>
+
+            <button class="small-btn del" type="button"><i class="fa-solid fa-trash"></i>Delete</button>
+
+            <button class="small-btn edit" type="button"><i class="fa-solid fa-pen"></i>Edit</button>
+          </div>
+
+          <div class="replies">
+            <div class="post-box">
+              <div class="post cmmnt">
+                <a href="#" class="avtr"></a>
+                <span class="usrnme-box">
+                  <a href="#" class="usrnme">admin</a>
+                  <a class="user-role">you</a>
+                </span>
+                <a class="post-date">2 weeks ago</a>
+    
+                <p class="post-main">This is a sample comment. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eius possimus vero blanditiis.</p>
+    
+                <span class="votes">
+                  <button class="vote-btn" type="button">+</button>
+                  <span class="score">4</span>
+                  <button class="vote-btn" type="button">&minus;</button>
+                </span>
+    
+                <button class="small-btn del" type="button"><i class="fa-solid fa-trash"></i>Delete</button>
+                <button class="small-btn edit" type="button"><i class="fa-solid fa-pen"></i>Edit</button>
+              </div>
+
+                <div class="post form updt cmmnt">
+                  <a href="#" class="avtr"></a>
+                  <span class="usrnme-box">
+                    <a href="#" class="usrnme">admin</a>
+                    <a class="user-role">you</a>
+                  </span>
+                  <a class="post-date">2 weeks ago</a>
+                
+                  <textarea name="" id="" placeholder="Update comment..." ></textarea>
+                
+                  <span class="votes">
+                    <button class="vote-btn" type="button">+</button>
+                    <span class="score">4</span>
+                    <button class="vote-btn" type="button">&minus;</button>
+                  </span>
+                
+                  <button class="small-btn del" type="button"><i class="fa-solid fa-trash"></i>Delete</button>
+                  <button class="small-btn edit" type="button"><i class="fa-solid fa-pen"></i>Edit</button>
+                  <button type="submit" name="cancel" class="small-btn cncl">Cancel</button>
+                  <button type="submit" name="updt-cmmnt" class="big-btn">UPDATE</button>
+                </div>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="post-box">
+          <div class="post cmmnt">
+            <a href="#" class="avtr"></a>
+            <span class="usrnme-box">
+              <a href="#" class="usrnme">user1</a>
+            </span>
+            <a class="post-date">2 weeks ago</a>
+
+            <p class="post-main">This is a sample comment. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eius possimus vero blanditiis.</p>
+
+            <span class="votes">
+              <button class="vote-btn" type="button">+</button>
+              <span class="score">100</span>
+              <button class="vote-btn" type="button">&minus;</button>
+            </span>
+
+            <button class="small-btn reply" type="button"><i class="fa-solid fa-reply"></i>Reply</button>
+          </div>
+
+          <div action="" class="post form create cmmnt reply">
+            <a href="#" class="avtr"></a>
+            <textarea name="" id="" placeholder="Send a reply..." ></textarea>
+            <button type="submit" name="send-reply" class="big-btn" onclick="createPost(this)">REPLY1111</button>
+          </div>
+
+        </div>
+
+        <div class="post-box">
+          <div class="post cmmnt">
+            <a href="#" class="avtr"></a>
+            <span class="usrnme-box">
+              <a href="#" class="usrnme">admin</a>
+              <a class="user-role">you</a>
+            </span>
+            <a class="post-date">2 weeks ago</a>
+
+            <p class="post-main">This is a sample comment. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eius possimus vero blanditiis.</p>
+
+            <span class="votes">
+              <button class="vote-btn" type="button">+</button>
+              <span class="score">100</span>
+              <button class="vote-btn" type="button">&minus;</button>
+            </span>
+
+            <button class="small-btn del" type="button"><i class="fa-solid fa-trash"></i>Delete</button>
+
+            <button class="small-btn edit" type="button"><i class="fa-solid fa-pen"></i>Edit</button>
+          </div>
+        </div>        
+        
+        <div class="post-box">
+          <div class="post cmmnt">
+            <a href="#" class="avtr"></a>
+            <span class="usrnme-box">
+              <a href="#" class="usrnme">user1</a>
+            </span>
+            <a class="post-date">2 weeks ago</a>
+
+            <p class="post-main">This is a sample comment. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eius possimus vero blanditiis.</p>
+
+            <span class="votes">
+              <button class="vote-btn" type="button">+</button>
+              <span class="score">100</span>
+              <button class="vote-btn" type="button">&minus;</button>
+            </span>
+
+            <button class="small-btn reply" type="button"><i class="fa-solid fa-reply"></i>Reply</button>
+          </div>
+        </div>
+
+      </div> -->
+
+
+
+      <!-- <div class="post form create cmmnt">
+        <a href="#" class="avtr"></a>
+        <textarea placeholder="Add a comment..." ></textarea>
+        <button type="submit" class="big-btn" onclick="createPost(this)">SEND</button>
+      </div> -->
